@@ -1,1 +1,1 @@
-# Function Implement Repository With C Language
+# Function Implement Repository with C Language
